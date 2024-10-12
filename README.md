@@ -1,5 +1,6 @@
 Student Enrollment System
-Overview
+
+Overview :
 The Student Enrollment System is a web-based application that allows users to manage student profiles. Users can add, view, update, and delete student information, including their personal details and enrolled courses.
 
 Features:
@@ -25,8 +26,8 @@ Prerequisites:
 Python 3.x installed on your system.
 Virtual environment tool like virtualenv or venv.
 Git installed for version control.
-Steps to Install:
-Clone the repository:
+first to Install
+Then clone the repository
 
 bash
 Copy code
