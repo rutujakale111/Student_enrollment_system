@@ -31,7 +31,7 @@ Then clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/student_enrollment_system.git
+git clone https://github.com/rutujakale111/Student_enrollment_system
 cd student_enrollment_system
 Create and activate a virtual environment:
 
