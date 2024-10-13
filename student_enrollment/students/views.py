@@ -1,11 +1,11 @@
-from django.shortcuts import render, get_object_or_404, redirect  # Added 'redirect'
+from django.shortcuts import render, get_object_or_404, redirect 
 from rest_framework import viewsets
 from rest_framework.response import Response
 from rest_framework import status
 from .models import Student
 from .serializers import StudentSerializer
 
-# API Views for CRUD operations
+
 class StudentViewSet(viewsets.ViewSet):
     def list(self, request):
         students = Student.objects.all()
