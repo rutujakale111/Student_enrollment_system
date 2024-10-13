@@ -65,7 +65,6 @@ The application will be available at http://127.0.0.1:8000.
 
 Running the Application
 Go to http://127.0.0.1:8000/ to access the homepage.
-Access the admin panel at http://127.0.0.1:8000/admin/ to manage users, courses, and other aspects of the system.
 Use the REST API to interact with the system programmatically.
 API Endpoints
 Students:
